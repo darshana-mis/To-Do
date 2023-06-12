@@ -21,8 +21,8 @@ react-todo-app/ <br>
 │ └── ... <br>
 ├── src/ <br>
 │ ├── components/ <br>
+│ │ ├── Todo.js <br>
 │ │ ├── TodoForm.js <br>
-│ │ ├── TodoItem.js <br>
 │ │ └── TodoList.js <br>
 │ ├── App.js <br>
 │ ├── index.js <br>
