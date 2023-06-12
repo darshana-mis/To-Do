@@ -15,19 +15,19 @@ This is a simple Todo App built using React. It allows users to create, manage, 
 
 The project structure is organized as follows:
 
-react-todo-app/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── components/
-│ │ ├── TodoForm.js
-│ │ ├── TodoItem.js
-│ │ └── TodoList.js
-│ ├── App.js
-│ ├── index.js
-│ └── ...
-└── ...
+react-todo-app/ <br>
+├── public/ <br>
+│ ├── index.html <br>
+│ └── ... <br>
+├── src/ <br>
+│ ├── components/ <br>
+│ │ ├── TodoForm.js <br>
+│ │ ├── TodoItem.js <br>
+│ │ └── TodoList.js <br>
+│ ├── App.js <br>
+│ ├── index.js <br>
+│ └── ... <br>
+└── ... <br>
 
 ## Dependencies
 
